@@ -1,0 +1,4 @@
+import discord
+
+TOKEN = "MTAzMzQ4MzY2NDI0MTIxNzU3Ng.GNXz9E.bULQnb0mbooFpYtPRj5427gBTWCDtxzutSH5N4"
+PREFIX = "!"

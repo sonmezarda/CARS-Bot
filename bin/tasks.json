@@ -1,0 +1,16 @@
+{
+    "task1":{
+        
+        "title":"Ödev 1",
+        "color":"0xFF0000",
+        "expected_files":["deneme.txt","selam.py"],
+        "fields":[
+            {
+                "name":"🟩 Kolay",
+                "desc":"Ödev açıklaması 1",
+                "expected_files":["deneme.txt","selam.py"]
+            }
+        ],
+        "footer":"bu bir footer"
+    }
+}
